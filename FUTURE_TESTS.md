@@ -1,7 +1,3 @@
-# Future Test Ideas and Improvements
-
-Based on the extensive JSON parser research in CLAUDE.md, here are additional tests that could be implemented to enhance the extension's coverage.
-
 ## Additional Test Categories
 
 ### 9. Encoding Variations
