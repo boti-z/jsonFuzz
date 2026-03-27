@@ -10,10 +10,12 @@ jsonScan generates systematic permutations of JSON payloads to identify how diff
 - Esto surge de la necesidad de tener una herramienta propia, modular, para poder hacer pruebas un poquito más avanzadas en JSONs. Hay herramientas de este tipo ( y probablemente mejor codeadas) que ya hacen esta función, pero no integradas en Burp como extensión. Era un follón, poco usable, tener que coger el output de otra tool y probar el JSON con intruder o similar
 - Está medio vibe-codeado. No esperes una calidad tremenda
 - Hice un primer prototipo en python que hacía exactamente eso, darte una lista de "payload" JSON con permutaciones. Aquí el primer diseño:
+  
 ![dario inicial](./docs/drawio_inicial.png)
 
 - Screenshots de la extensión actual:
- ![dario inicial](./docs/1.png)
+
+![dario inicial](./docs/1.png)
  ![dario inicial](./docs/2.png)
 
 ## Installation
