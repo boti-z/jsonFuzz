@@ -349,3 +349,8 @@ src/main/java/
 │   ├── ui/                     # User interface
 │   └── utils/                  # Utilities
 ```
+
+### References / Acknowledgments
+- https://bishopfox.com/blog/json-interoperability-vulnerabilities
+- https://gitlab.com/michenriksen/jdams y otras tools similares
+- Charla de los grandes Dani Haro y Miki en RootedMalaga 2025
